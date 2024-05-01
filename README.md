@@ -3,7 +3,7 @@
 ## 簡介
 這是一個機器視覺的作業，我是使用 cv2 還有搭配微調顏色、ROI、HSV等數值和遮罩來檢測正在打網球的球員。
 
-## 畫面截圖
+## 運行畫面截圖
 ![image](https://github.com/YuCheng1122/PBL-2/assets/104905823/2cc0011a-5186-4cde-8e9d-04b3f7bba4e6)
 
 
